@@ -1,0 +1,3 @@
+{
+  "tests/test_parking_and_bookings.py::test_parking_facilities_crud": true
+}

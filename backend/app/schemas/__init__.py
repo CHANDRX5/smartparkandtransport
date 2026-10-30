@@ -1,0 +1,1 @@
+"""SmartPark AI - Schemas Package."""

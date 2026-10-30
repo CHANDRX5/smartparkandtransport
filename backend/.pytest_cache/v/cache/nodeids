@@ -1,0 +1,9 @@
+[
+  "tests/test_auth.py::test_health_check",
+  "tests/test_auth.py::test_user_registration_and_login",
+  "tests/test_lost_found.py::test_lost_found_reporting_and_matching",
+  "tests/test_parking_and_bookings.py::test_ai_aerial_parking_detection_and_review",
+  "tests/test_parking_and_bookings.py::test_owner_management_and_isolation",
+  "tests/test_parking_and_bookings.py::test_parking_facilities_crud",
+  "tests/test_parking_and_bookings.py::test_parking_facilities_crud_and_booking"
+]
